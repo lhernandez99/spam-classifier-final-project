@@ -17,5 +17,5 @@ Build and evaluate machine learning models to classify SMS messages into "spam" 
 ## Files
 - `spam_classifier_final_project.ipynb` – Full notebook with EDA, models, evaluation, and results.
 
-## 🗂 Dataset
+## Dataset
 - [UCI SMS Spam Collection Dataset](https://archive.ics.uci.edu/ml/datasets/SMS+Spam+Collection)

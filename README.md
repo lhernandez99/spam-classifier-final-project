@@ -1,5 +1,6 @@
 # spam-classifier-final-project
 CSCA 5622 Final Project: Supervised Learning with Spam Classification
+
 This project is a supervised learning classification task that predicts whether a message is spam or ham using the UCI SMS Spam Collection dataset.
 
 ## Problem Statement
